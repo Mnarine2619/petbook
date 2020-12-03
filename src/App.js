@@ -9,10 +9,24 @@ import './App.css';
 function App() {
   return(
     <div className="App">
-      <Navbar/>
+       <Navbar/>
+       <Navbar/>
+        <Navbar/>
+         <Navbar/>
+          <Navbar/>
       <Splash/>
+         <Splash/>
+            <Splash/>
       <Photos/>
-      <Descriptions/>
+          <Photos/>
+ <Descriptions/>
+ <Descriptions/>
+ <Descriptions/>
+ <Descriptions/>
+ <Descriptions/>
+ <Descriptions/>
+ <Descriptions/>
+ <Descriptions/>
     </div>
   );
 }
